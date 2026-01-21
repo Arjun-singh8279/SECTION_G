@@ -122,6 +122,7 @@ We believe in:
 * Respectful communication
 * Helping each other
 * Inclusive and friendly community
+* hard work 
 
 ---
 
@@ -139,6 +140,7 @@ If you like this project:
 
 Open source grows because of people like **you** ❤️
 This is ayush kumar yes i am
+
 
 ---
 
